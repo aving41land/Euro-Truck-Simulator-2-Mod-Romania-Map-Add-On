@@ -205,4 +205,4 @@ This repository serves as the official landing page for Euro Truck Simulator 2 M
 **Get the most recent version of Euro Truck Simulator 2 Mod: Romania Map Add-on today!**
 
 ---
-**Last updated:** 2026-11-08 13:57:29 UTC
+**Last updated:** 2026-11-08 18:37:30 UTC
